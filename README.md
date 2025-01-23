@@ -2,7 +2,7 @@
 
 Essas foram as diretrizes para o desenvolvimento desse layout.
 
-Projeto totalmente didático para prática de base HTML e CSS, porém, escalável e de fácil adaptação para negócios ou outras ferramentas.
+Projeto didático para prática de base HTML e CSS, porém, escalável e de fácil adaptação para negócios ou outras ferramentas.
 
 Pode até encontrar semelhança com alguns rodando por aí :3
 
@@ -12,7 +12,7 @@ Pode até encontrar semelhança com alguns rodando por aí :3
 
 These were the guidelines for developing this layout.
 
-A totally didactic project for practising basic HTML and CSS, but scalable and easily adaptable for businesses or other tools.
+A didactic project for practising basic HTML and CSS, but scalable and easily adaptable for businesses or other tools.
 
 You may even find similarities with some running around :3
 
